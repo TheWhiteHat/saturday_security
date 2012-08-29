@@ -1,0 +1,62 @@
+
+@@ SATURDAY SECURITY @@
+
+## Session 0x03 ##
+Intro to Networks
+
+
+--[ Table of Contents
+  Abstract
+  Networks
+  Internet & OSI Model
+  Server Client Model
+  Attacking
+  Defending
+  Beyond
+
+--[ Abstract
+  This session is to give you gusy an intro computer networks. How the 
+  internet works. What is meant by a client & server model. Discuss
+  the issues and difficulties of maintaining and securing a network.
+
+
+-- [ networks
+  
+  + What is a network abstractly?
+
+--[ Internet
+  
+  + What do we mean by the Internet?
+  + What is an IP Address?
+  + What is a port #?
+  + What is Encapsulation?
+  + What is the OSI Model?
+  
+--[ Wireshark
+  + Listen to the network
+  + Examin packets?
+  + Do you see encapsulation?
+  + Where is the IP address & port number stored in a packet?
+
+--[ Server Client Model
+
+Server & Client Model
+
+--[ Netcat
+
+--[ Recap
+  + benefits of connecting computers?
+  + what appears to be risks?
+
+--[ Attacking 
+  + Scan _____.com what ports do you see open?
+  + Shodanhq
+  + Scanning what can i see
+  + robots.txt
+  + serversniff
+  + How could i take control of a computer remotely?
+
+--[ Defending
+  + How do I defend against scanning of ports?
+  + How do I prevent remote 0day?
+  + How does a defender know that 
