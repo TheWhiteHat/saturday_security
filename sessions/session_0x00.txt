@@ -1,0 +1,60 @@
+
+  @@ SATURDAY SECURITY @@
+
+Session 0x00
+Introduction to Hacking
+
+
+--[ Table of Contents
+
+  0. Abstract
+  1. Saturday Security Format
+  2. Objectives
+  2.1 What is Hacking
+  2.2 Ethics of Hacking
+  2.3 Attacking
+  2.4 Defending
+  2.5 What is Out There
+  2.6 Physical Security
+  2.7 Social Engineering
+
+
+
+--[ 0 - Abstract ]
+This session is to dicuss how Saturday Security Sessions funciton, what is 
+hacking, the ethics of hacking, and some low-tech security.
+
+Saturday Security Format
+
+it is focused on participants to teach themselves and aid the community
+everyone is broken up in to teams of 3
+then i will give everyone a small goal to finish
+this will usually be some sort of program to write, utility to accurately use, or open discussion
+the goal will have some form of quick deliverable
+teams are allowed to
+  steal from other teams
+  look up on google
+  look up on google
+  ask other teams for help
+  teach another team once they have finished a task
+
+Objectives
++ What is the definition of hackin?
++ Where did the term hacker originate?
++ What is concidered the original definition?
++ What is the Hacker Manifesto?
++ What is a Black Hat hacker?
++ What is a White Hat Hacker? 
++ What is your definition of hacking?
+
+Ethics
++ What do you think is Ethical while Hacking?
+What do you think is Unethical while Hacking?
+
+Attacking
+What are ways of taking down a company with hacking using the internet?
+What is a Penetration Testing / Tiger Team?
+
+
+
+
