@@ -2,11 +2,11 @@
   @@ SATURDAY SECURITY @@
 
 Session 0x00
-Introduction to Hacking
+Introduction to Hacking/Security
 
 
 --[ Table of Contents
-
+  0. Preface
   0. Abstract
   1. Saturday Security Format
   2. Objectives
@@ -18,43 +18,88 @@ Introduction to Hacking
   2.6 Physical Security
   2.7 Social Engineering
 
-
+--[ Preface ]
+Getting into ta Hacker/Egineer/Security field is tough. They are all rapidly 
+changing. What you know now will most likely be a little relevance in about
+5 years and very little relevance in 10. This means the art of how to learn
+is just as if not more important than memorizing formulas, languages,
+apis, frameworks, tools, etc.
 
 --[ 0 - Abstract ]
 This session is to dicuss how Saturday Security Sessions funciton, what is 
 hacking, the ethics of hacking, and some low-tech security.
 
-Saturday Security Format
+--[ Saturday Security Format ]
 
-it is focused on participants to teach themselves and aid the community
-everyone is broken up in to teams of 3
-then i will give everyone a small goal to finish
-this will usually be some sort of program to write, utility to accurately use, or open discussion
-the goal will have some form of quick deliverable
-teams are allowed to
-  steal from other teams
-  look up on google
-  look up on google
-  ask other teams for help
-  teach another team once they have finished a task
+--[ Groups
+  + You are going to teach yourself.
+  + Groups of 3
+  + Only one member of the group can be on a computer
+  + Share the computer don't be a hog
 
-Objectives
-+ What is the definition of hackin?
-+ Where did the term hacker originate?
-+ What is concidered the original definition?
-+ What is the Hacker Manifesto?
-+ What is a Black Hat hacker?
-+ What is a White Hat Hacker? 
-+ What is your definition of hacking?
+--[ Tasks
+goal to be a semi quick deliverable 
+each task shouldn't take more than 5 to 10 min to complete on avg
+the class will be presented with small goals to finish
+it could be a program, using a tool, a discussion along those lines
 
-Ethics
-+ What do you think is Ethical while Hacking?
-What do you think is Unethical while Hacking?
+--[ Learning
+  + You can ask any of your peers for help
+  + Try to first work within your group.
+  + Use just about everything at your disposal google w/e
+  + If you get stuck then ask other groups
+ if you finish early then teach other groups
+ As Sugata said you can steal neighbor work and clame it as your own.
 
-Attacking
-What are ways of taking down a company with hacking using the internet?
-What is a Penetration Testing / Tiger Team?
+--[ Hacking ]
+  To get things started off we should sorta discuss what it means to be hacker.
+ 
+  + What some definitions of hacking?
+  + Where did the term hacker originate?
+  + What is concidered the original definition?
+  + What is the Hacker Manifesto? 
+  + What is your definition of hacking?
+
+-- [ Ethics ]
+  To segeway into the discussion of the ethics of hacking we should take a look
+  at the terms Black Hat & White Hat.
+
+  + What is a Black Hat hacker?
+  + What is a White Hat Hacker? 
+  + What do you think is ethical hacking?
+  + What do you think is unethical hacking?
+  + Legal vs. Ethical hacking?
+
+--[ Attacking ]
+  Now it is time to get a little devious. Put on your devil hats. It is time to
+  subvert.
+
+  [insert quote]
+
+  + What are ways of taking down a company with hacking using the internet?
+  + What is a Penetration Testing / Tiger Team?
+
+--[ Defending ]
+  Now it is time to defend.
+
+  + All the attacks you listed how could we prevent them from happening?
+  + If not preventable how could we mitigate?
+  + Do we really need to protect these threats/attacks?
+
+--[ Getting Involved ]
+  This is great and all but what is next? Well get involved. You make the first
+  move we cannot do that for you.
+
+  + Cryptography
+  + Exploits
+  + System Admin
+  + Incident Response
+  + Penetration Teams
+  + Research
+  + Malware
 
 
-
+--[ Credit ]
+  Sugata Mitra: The Child-Driven Eductation
+  [htto://www.ted.com/talks/sugata_mitra_the_child_driven_education.html]
 
