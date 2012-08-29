@@ -1,0 +1,52 @@
+
+  @@ SATURDAY SECURITY @@
+
+Session 0x00
+Brogramming and Bronix (Programming and Unix)
+
+
+--[ Table of Contents
+  0. Abstract
+  1. The Terminal
+  2. Coreutils
+
+--[ 0 - Abstract ]
+The goal of this session is to give you a basic understanding of programming
+and UNIX. This will help you become comfortable with programming and navigating
+a UNIX environment. 
+
+--[ 1 - The Terminal ]
+  In order to get a feel for UNIX, you must be able to use the No. 1 most
+  commonly used UNIX interface: The terminal.
+  + Open a terminal
+  + What is a terminal?
+  + What did modern terminals evolve from?
+  + Where does the text go to and come from?
+  + What is a shell?
+  + How do you use a shell?
+    "Into the rays of your reflection we enter from a terminal connection"
+      -Pendulum
+
+--[ 2 - Coreutils ]
+  Things you should know how to use in a terminal. These utilities are the
+  foundation for many scripts.
+  + Define the following: bash, cp, rm, mv, ls, cd, cat
+  + Navigate to [insert folder here]
+  + Rename a file
+  + Show the contents of a file
+
+--[ 3 - Python ]
+  Python is a valuable language for quickly creating powerful programs and
+  scripts
+  + What is a function?
+  + What is a class?
+  + Create a function that prints "hello world"
+  + Create a class containing the function
+  + Create a program that calls the function
+  + Create a function in the class that adds two arguments
+  + Create a program that displays the sum of two numbers
+  + Make the program ask users for numbers
+
+--[ 4 - Multi User Environments ]
+  It is important to understand who can do what in multi-user environments
+  + 
