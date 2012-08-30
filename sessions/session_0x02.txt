@@ -1,0 +1,81 @@
+
+@@ SATURDAY SECURITY @@
+
+## Session 0x02 ##
+Intro to Crypto
+
+--[ Table of Contents 
+  Abstract
+  Crypto*
+  Modulo
+  Steganography
+  Why Hide things?
+  Caeser Cipher
+  Vegenere Cipher 
+
+
+--[ Abstract
+
+--[ Crypt*
+  So to start things off we should probably get an encyclopedic knowledge of some
+  of the topics.
+  
+  + What does Crypto mean?
+  + What is Cryptology?
+  + What is Cryptanalysi?
+  + What is Plaintext?
+  + What is Encryption?
+  + What is Ciphertext?
+  + What is Decryption?
+
+--[ Modulo
+  You guys probably know this but just for the sake of the review. Modulus 
+  arithmetic is like a clock. Once a value goes over the modulu it wraps
+  back around. 
+
+  + 234234 % 3  = ?
+
+
+--[ Caeser Cipher
+  + What is the Caeser Cipher?
+  + Write a program that can encrypt and decrypt data with the caesar cipher.
+
+--[ Hashes 
+  + What is a hash?
+  + In short what does it do?
+  + get a md5 hash of a file on your system. 
+
+--[ Steganogrpahy
+  
+  + What is steganography?
+  + How is this different than cryptography?
+  + Write a basic python script to hide and retrieve dat from a .jpg
+  + 
+
+
+--[ Why do 
+  + Why do we hide things?
+  + CIA triangle what is it?
+  + What is Confidentiality mean?
+  + What is authenticity mean?
+  + What does integretiy mean?
+  + What does cryptography give us?
+  + What does hash functions give us?
+
+--[ Attacking
+  + Breaking a hash function?
+  + Passwords
+  + Breaking an encryption algorithm?
+  + Break Caeser Cipher
+  + SSL
+  + DES
+  
+
+--[ Defending 
+  + Prevent hash function breaking?
+  + Mitigate if hash functions are inevitably broken how to mitigate?
+  +  
+
+
+
+  
