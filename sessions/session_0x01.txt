@@ -30,10 +30,18 @@ a UNIX environment.
 --[ 2 - Coreutils ]
   Things you should know how to use in a terminal. These utilities are the
   foundation for many scripts.
-  + Define the following: bash, cp, rm, mv, ls, cd, cat
-  + Navigate to [insert folder here]
-  + Rename a file
-  + Show the contents of a file
+#  + Define the following: bash, cp, rm, mv, ls, cd, cat
+#  + Navigate to [insert folder here]
+#  + Rename a file
+#  + Show the contents of a file
+  + Open a terminal
+  + Make a directory named "session1"
+  + Move into the directory
+  + Create a file in the directory named "sesh.txt"
+  + Copy the file to "sesh.txt.bak"
+  + Delete "sesh.txt"
+  + Rename "sesh.txt.back" back to "sesh.txt"
+  + List the files in the directory
 
 --[ 3 - Python ]
   Python is a valuable language for quickly creating powerful programs and
@@ -49,4 +57,4 @@ a UNIX environment.
 
 --[ 4 - Multi User Environments ]
   It is important to understand who can do what in multi-user environments
-  + 
+#  + Todo
